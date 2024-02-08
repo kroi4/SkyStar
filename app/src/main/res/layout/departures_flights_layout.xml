@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/departuresContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/natbagbackground"
+    android:orientation="vertical"
+    tools:context=".ui.screens.DeparturesFlightsFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/departures"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="3dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/tvStatus"
+        android:text="@string/flight_status"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:padding="35sp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:visibility="gone"
+        />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        style="?android:attr/progressBarStyle"
+        android:indeterminateDrawable="@drawable/rotating_icon"
+        android:scaleX="0.30"
+        android:scaleY="0.30"
+        android:padding="35sp"
+        android:visibility="gone"
+        />
+
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvFlights"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:listitem="@layout/item_flight_layout"
+            />
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+</LinearLayout>
+

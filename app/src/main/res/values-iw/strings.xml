@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SkyStar</string>
+    <string name="airline">חברת תעופה</string>
+    <string name="arrivals">נחיתות</string>
+    <string name="flight_status">מצב</string>
+    <string name="departures">המראות</string>
+    <string name="airport_name">שדה התעופה</string>
+    <string name="flight_number">מספר טיסה</string>
+    <string name="country_city">מדינה - עיר</string>
+    <string name="scheduled_time">זמן מתוכנן</string>
+    <string name="estimated_time">זמן עדכני</string>
+    <string name="favorites">מועדפים</string>
+    <string name="flights">טיסות</string>
+    <string name="search">חיפוש</string>
+    <string name="date_time">תאריך - שעה</string>
+    <string name="dates">תאריכים</string>
+    <string name="time">שעה</string>
+    <string name="start">התחלה</string>
+    <string name="end">סיום</string>
+    <string name="error_add_to_favorite">הטיסה הזו כבר נמצאת ברשימת המועדפים!</string>
+    <string name="add_new_to_favorite">הטיסה נוספה בהצלחה!</string>
+    <string name="couldnt_connect_to_server">לא ניתן להתחבר לשרת!</string>
+    <string name="attention">שימו לב</string>
+    <string name="no_favorite">אין עדיין מועדפים!\nיש להוסיף תחילה טיסה מועדפת</string>
+    <string name="add_to_favorite">הוספה למועדפים</string>
+    <string name="has_been_remove_favorite">הטיסה הוסרה מהמועדפים!</string>
+    <string name="remove_favorite">הסרה מהמועדפים</string>
+    <string name="search_failed">לא ניתן לגשת לשתר!\יש לבדוק את חיבור האינטרנט שלך</string>
+    <string name="no_search_results">לא נמצאו טיסות התואמות את תנאי החיפוש שלך</string>
+    <string name="fill_time_fields">יש לציין גם שעת התחלה וגם שעת סיום</string>
+    <string name="uppercase_digits_regex">יש להזין אותיות לטיניות גדולות ו/או ספרות בלבד!</string>
+    <string name="time_regex">שעת הסיום חייבת להיות מאוחרת משעת ההתחלה!</string>
+    <string name="std">המראה משוערת</string>
+    <string name="atd">המראה בפועל</string>
+    <string name="sta">נחיתה משוערת</string>
+    <string name="ata">נחיתה בפועל</string>
+    <string name="ok">אישור</string>
+    <string name="empty_favorites">רשימת המועדפים ריקה</string>
+    <string name="error_regex">נמצאה שגיאה אחת או יותר!\nיש לתקנן לפני השליחה</string>
+    <string name="search_results">תוצאות חיפוש</string>
+    <string name="city">עיר</string>
+    <string name="select_dates">בחירת תאריכים</string>
+
+</resources>

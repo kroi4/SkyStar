@@ -1,0 +1,391 @@
+<resources>
+    <string name="app_name">SkyStar</string>
+    <string name="airline">Airline</string>
+    <string name="arrivals">Arrivals</string>
+    <string name="flight_status">Status</string>
+    <string name="departures">Departures</string>
+    <string name="airport_name">Airport Name</string>
+    <string name="city">City</string>
+    <string name="flight_number">Flight number</string>
+    <string name="country_city">Country - City</string>
+    <string name="scheduled_time">Scheduled Time</string>
+    <string name="estimated_time">Estimated Time</string>
+    <string name="favorites">Favorites</string>
+    <string name="flights">Flights</string>
+    <string name="search">Search</string>
+    <string name="search_results">Search Results</string>
+    <string name="date_time">Date - Time</string>
+    <string name="dates">Dates</string>
+    <string name="time">Time</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="add_to_favorite">Add To Favorites</string>
+    <string name="add_new_to_favorite">Flight has been successfully added to favorites!</string>
+    <string name="error_add_to_favorite">This flight is already in the favorites list!</string>
+    <string name="couldnt_connect_to_server">Couldn\'t connect to server!</string>
+    <string name="empty_favorites">The favorite list is empty</string>
+    <string name="attention">ATTENTION</string>
+    <string name="no_favorite">There are no favorites yet!\nAdd a favorite flight first</string>
+    <string name="has_been_remove_favorite">Flight has been removed from favorites!</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <string name="search_failed">Unable to reach the server!\nCheck your internet connection</string>
+    <string name="no_search_results">No flights have matched your search criteria!</string>
+    <string name="fill_time_fields">Both start hour and end hour need to be mentioned</string>
+    <string name="uppercase_digits_regex">Type uppercase letters and/or digits only!</string>
+    <string name="time_regex">Start time must be earlier than end time!</string>
+    <string name="error_regex">One or more errors were found!\nPlease correct them before searching</string>
+    <string name="std">STD</string>
+    <string name="atd">ATD</string>
+    <string name="sta">STA</string>
+    <string name="ata">ATA</string>
+    <string name="ok">OK</string>
+    <string name="select_dates">Select dates</string>
+
+    <string-array name="cityesHe">
+
+        <item>איסטנבול</item>
+        <item>מילאנו</item>
+        <item>רומא</item>
+        <item>ניו יורק</item>
+        <item>ציריך</item>
+        <item>בוקרשט</item>
+        <item>לרנקה</item>
+        <item>קרקוב</item>
+        <item>מינכן</item>
+        <item>לונדון לוטון</item>
+        <item>לוקסור</item>
+        <item>SUCEAVA</item>
+        <item>ברלין</item>
+        <item>עמאן</item>
+        <item>פרנקפורט</item>
+        <item>ברצלונה</item>
+        <item>נאפולי</item>
+        <item>וינה</item>
+        <item>סופיה</item>
+        <item>דובאי</item>
+        <item>אתונה</item>
+        <item>לייפציג</item>
+        <item>ורשה</item>
+        <item>סן פרנסיסקו</item>
+        <item>סיאול</item>
+        <item>קטוביץ</item>
+        <item>אדיס אבבה</item>
+        <item>באקו</item>
+        <item>בארי</item>
+        <item>רובניימי</item>
+        <item>ליאז</item>
+        <item>פאפוס</item>
+        <item>סלוניקי</item>
+        <item>לונדון</item>
+        <item>בודפשט</item>
+        <item>פארנבורו</item>
+        <item>מדריד</item>
+        <item>הלסינקי</item>
+        <item>מיאמי</item>
+        <item>ניוארק</item>
+        <item>הונג-קונג</item>
+        <item>שיקאגו</item>
+        <item>אינצ\'רליק</item>
+        <item>אמסטרדם</item>
+        <item>פריס</item>
+        <item>גרנובל</item>
+        <item>וארנה</item>
+        <item>אבו דאבי</item>
+        <item>קלן</item>
+        <item>קלוז\' נפוקה</item>
+        <item>זלצבורג</item>
+        <item>קהיר</item>
+        <item>סטאוונגר</item>
+        <item>ברגמו</item>
+        <item>וילנה</item>
+        <item>בולוניה</item>
+        <item>ונציה</item>
+        <item>יאסי</item>
+        <item>אנטליה</item>
+        <item>איזמיר</item>
+        <item>מלטה</item>
+        <item>אילת - רמון</item>
+        <item>מוסקבה</item>
+        <item>דאלאמן</item>
+        <item>ניס</item>
+        <item>וושינגטון</item>
+        <item>נתבג</item>
+        <item>מינראל וודי</item>
+        <item>פראג</item>
+        <item>טרביזו</item>
+        <item>בלגראד</item>
+        <item>פוזנן</item>
+        <item>דברצן</item>
+        <item>דלהי</item>
+        <item>טביליסי</item>
+        <item>ליסבון</item>
+        <item>אוסלו</item>
+        <item>יוהנסבורג</item>
+        <item>בטומי</item>
+        <item>בנגקוק</item>
+        <item>ז\'נבה</item>
+        <item>לוס אנג\'לס</item>
+        <item>בוסטון</item>
+        <item>בריסל</item>
+        <item>פוקט</item>
+        <item>שארם אל-שייח</item>
+        <item>טורונטו</item>
+        <item>עובדה</item>
+        <item>ממינגן</item>
+        <item>פולה</item>
+        <item>בחריין</item>
+        <item>קופנהאגן</item>
+        <item>באזל</item>
+        <item>שטוקהולם</item>
+        <item>סוצ\'י</item>
+        <item>קיגאלי</item>
+        <item>מארקש</item>
+        <item>ליון</item>
+        <item>קישינב</item>
+        <item>בריסל - שרלרואה</item>
+        <item>לונדון</item>
+        <item>מנצ\'סטר</item>
+        <item>קטאניה</item>
+        <item>קזבלנקה</item>
+        <item>דיסלדורף</item>
+        <item>טשקנט</item>
+        <item>ירבאן</item>
+        <item>מרסיי</item>
+        <item>שטוטגארט</item>
+        <item>ריגה</item>
+        <item>באדן באדן</item>
+        <item>FARO</item>
+
+    </string-array>
+
+    <string-array name="airlines">
+        <item>CATHAY PACIFIC AIRWAYS</item>
+        <item>FINNAIR</item>
+        <item>AEGEAN \ AIRLINES</item>
+        <item>AERO HANDLING</item>
+        <item>AERO MEXICO</item>
+        <item>AEROLINEAS ARGENTINAS S.A.</item>
+        <item>AIR BALTIC</item>
+        <item>AIR CANADA</item>
+        <item>AIR EUROPA LINEAS AEAREAS</item>
+        <item>AIR FRANCE</item>
+        <item>AIR INDIA</item>
+        <item>AIR MOLDOVA</item>
+        <item>AIR PORTUGAL</item>
+        <item>AIR SERBIA</item>
+        <item>AIR SEYCHELLES</item>
+        <item>ALL NIPPON AIRWAYS</item>
+        <item>AMERICAN AIRLINES</item>
+        <item>ARKIA \ ISRAELI \ AIRLINES</item>
+        <item>ATLAS AIR Inc.</item>
+        <item>AUSTRIAN AIRLINES</item>
+        <item>AZERBAIJAN AIRLINES</item>
+        <item>AZIMUTH AIRLINES</item>
+        <item>BLUE BIRD AIRWAYS</item>
+        <item>BRITISH AIRWAYS PLC</item>
+        <item>BRUSSELS AIRLINES</item>
+        <item>BULGARIA \ AIR</item>
+        <item>BUZZ AIR</item>
+        <item>ISRAELI CARGO</item>
+        <item>CHALLENGE AIRLINES</item>
+        <item>CORONDON AIRLINES</item>
+        <item>CYPRUS AIRWAYS</item>
+        <item>CZECH AIRLINES</item>
+        <item>DELTA AIRLINES</item>
+        <item>EASYJET</item>
+        <item>EGYPTAIR AIRLINES</item>
+        <item>EL AL ISRAEL AIRLINES</item>
+        <item>EMIRATES</item>
+        <item>ENTER AIR- E4</item>
+        <item>ETHIOPIAN AIRLINES</item>
+        <item>ETIHAD AIRWAYS</item>
+        <item>EUROPEAN AIR TRANSPORT</item>
+        <item>FEDERAL EXPRESS</item>
+        <item>FLYDUBAI</item>
+        <item>FLYONE ARMENIA LLC</item>
+        <item>GEORGIAN AIRWAYS</item>
+        <item>GULF AIR</item>
+        <item>HAINAN AIRLINES</item>
+        <item>HISKY</item>
+        <item>HISKY EUROPE SRL</item>
+        <item>IBERIA</item>
+        <item>ISRAIR AIRLINES</item>
+        <item>ITALIA TRASPORTO AEREO</item>
+        <item>JETBLUE AIRWAYS CORPORATION</item>
+        <item>K.L.M.</item>
+        <item>KOREAN AIR</item>
+        <item>LAUFER GHI</item>
+        <item>LOT POLISH AIRLINES</item>
+        <item>LUFTHANSA</item>
+        <item>MNG CARGO AIRLINES</item>
+        <item>NEOS</item>
+        <item>NETJETS</item>
+        <item>NORWEGIAN AIR SHUTTLE</item>
+        <item>PEGASUS AIRLINES</item>
+        <item>POSTE AIR CARGO</item>
+        <item>QANTAS AIRWAYS</item>
+        <item>QUALITY AIR SERVICES</item>
+        <item>RED WINGS AIRLINES</item>
+        <item>ROYAL \ JORDANIAN</item>
+        <item>ROYAL AIR MAROC</item>
+        <item>RYANAIR</item>
+        <item>SAN MARINO AIRLINES</item>
+        <item>SIBERIA AIRLINES</item>
+        <item>SILK WAY WEST AIRLINES</item>
+        <item>SMARTWINGS</item>
+        <item>SUN EXPRESS</item>
+        <item>SWISS</item>
+        <item>TAILWIND AIRLINES</item>
+        <item>RUMANIAN AIR TRANSPORT</item>
+        <item>THAI AIRWAYS</item>
+        <item>TRANSAVIA</item>
+        <item>TRANSAVIA FRANCE</item>
+        <item>TURKISH AIRLINES</item>
+        <item>TUS AIRWAYS</item>
+        <item>UNITED AIRLINES</item>
+        <item>UPS AIRLINES</item>
+        <item>UZBEKISTAN AIR</item>
+        <item>VIETNAM AIRLINES</item>
+        <item>VIRGIN ATLANTIC AIRWAYS</item>
+        <item>VUELING AIRLINES S.A.</item>
+        <item>WIZZ AIR ABU DHABI</item>
+        <item>WIZZ UK</item>
+        <item>WIZZAIR</item>
+        <item>AIR HAMBURG</item>
+        <item>Bedek</item>
+        <item>BEES AIRLINE</item>
+        <item>BLUE AIR AVIATION</item>
+        <item>FLYONE</item>
+        <item>Jordan Aviation</item>
+        <item>ONUR AIR</item>
+        <item>RED WINGS</item>
+        <item>SKYUP AIRLINES</item>
+        <item>TBILISI AIRWAYS LLC</item>
+        <item>UKRAINE INTL AIR</item>
+        <item>USA AIR FORCE</item>
+        <item>VISTA JET AIR</item>
+
+    </string-array>
+
+    <string-array name="cityesEn">
+        <item>CATHAY PACIFIC AIRWAYS</item>
+        <item>FINNAIR</item>
+        <item>ג.א.ד טיסות בעמ</item>
+        <item>חץ תעופה</item>
+        <item>רעות נתיבי אוויר</item>
+        <item>שינו תעופה</item>
+        <item>תעשיה אווירית- נסויי טיסה</item>
+        <item>AEGEAN \ AIRLINES</item>
+        <item>AERO HANDLING</item>
+        <item>AERO MEXICO</item>
+        <item>AEROLINEAS ARGENTINAS S.A.</item>
+        <item>AIR BALTIC</item>
+        <item>AIR CANADA</item>
+        <item>AIR EUROPA Lineas Aereas S.A.U</item>
+        <item>AIR FRANCE</item>
+        <item>AIR INDIA</item>
+        <item>AIR MOLDOVA</item>
+        <item>AIR PORTUGAL</item>
+        <item>AIR SERBIA</item>
+        <item>AIR SEYCHELLES</item>
+        <item>ALL NIPPON AIRWAYS</item>
+        <item>AMERICAN AIRLINES</item>
+        <item>ARKIA \ ISRAELI \ AIRLINES</item>
+        <item>ATLAS AIR Inc.</item>
+        <item>AUSTRIAN AIRLINES</item>
+        <item>AZERBAIJAN AIRLINES</item>
+        <item>AZIMUTH AIRLINES</item>
+        <item>BLUE BIRD AIRWAYS</item>
+        <item>BRITISH AIRWAYS PLC</item>
+        <item>BRUSSELS AIRLINES</item>
+        <item>BULGARIA \ AIR</item>
+        <item>BUZZ AIR</item>
+        <item>C.A.L ISRAELI CARGO</item>
+        <item>CHALLENGE AIRLINES</item>
+        <item>CORONDON AIRLINES</item>
+        <item>CYPRUS AIRWAYS</item>
+        <item>CZECH AIRLINES</item>
+        <item>DELTA AIRLINES</item>
+        <item>EASY JET SWITZERLAND</item>
+        <item>EASYJET</item>
+        <item>EASYJET EUROPE AIRLINE</item>
+        <item>EGYPTAIR AIRLINES</item>
+        <item>EL AL ISRAEL AIRLINES</item>
+        <item>EMIRATES</item>
+        <item>ENTER AIR- E4</item>
+        <item>ETHIOPIAN AIRLINES</item>
+        <item>ETIHAD AIRWAYS</item>
+        <item>EUROPEAN AIR TRANSPORT</item>
+        <item>FEDERAL EXPRESS</item>
+        <item>FLYDUBAI</item>
+        <item>FLYONE ARMENIA LLC</item>
+        <item>GEORGIAN AIRWAYS</item>
+        <item>GULF AIR - BAHREIN</item>
+        <item>HAINAN AIRLINES</item>
+        <item>HISKY</item>
+        <item>HISKY EUROPE SRL</item>
+        <item>IBERIA</item>
+        <item>ISRAIR AIRLINES</item>
+        <item>ITALIA TRASPORTO AEREO</item>
+        <item>JETBLUE AIRWAYS CORPORATION</item>
+        <item>K.L.M.</item>
+        <item>KOREAN AIR</item>
+        <item>LAUFER GHI</item>
+        <item>LOT POLISH AIRLINES</item>
+        <item>LUFTHANSA</item>
+        <item>MNG CARGO AIRLINES</item>
+        <item>NEOS</item>
+        <item>NETJETS</item>
+        <item>NORWEGIAN AIR SHUTTLE</item>
+        <item>PEGASUS AIRLINES</item>
+        <item>POSTE AIR CARGO</item>
+        <item>QANTAS AIRWAYS</item>
+        <item>QUALITY AIR SERVICES</item>
+        <item>RED WINGS AIRLINES</item>
+        <item>ROYAL \ JORDANIAN</item>
+        <item>ROYAL AIR MAROC</item>
+        <item>RYANAIR</item>
+        <item>SAN MARINO AIRLINES</item>
+        <item>SIBERIA AIRLINES</item>
+        <item>SILK WAY WEST AIRLINES</item>
+        <item>SMARTWINGS</item>
+        <item>SUN EXPRESS</item>
+        <item>SWISS INT`L \ AIRLINES</item>
+        <item>TAILWIND AIRLINES</item>
+        <item>TAROM - RUMANIAN AIR TRANSPORT</item>
+        <item>THAI AIRWAYS</item>
+        <item>TRANSAVIA</item>
+        <item>TRANSAVIA FRANCE</item>
+        <item>TURKISH AIRLINES</item>
+        <item>TUS AIRWAYS</item>
+        <item>UNITED AIRLINES</item>
+        <item>UPS AIRLINES</item>
+        <item>UZBEKISTAN AIR</item>
+        <item>VIETNAM AIRLINES</item>
+        <item>VIRGIN ATLANTIC AIRWAYS</item>
+        <item>VUELING AIRLINES S.A.</item>
+        <item>WIZZ AIR ABU DHABI</item>
+        <item>WIZZ UK</item>
+        <item>WIZZAIR</item>
+        <item>א.י.מ. תעופה בעמ</item>
+        <item>א.מ.ר תעופה בעמ</item>
+        <item>לייף אייר</item>
+        <item>AIR HAMBURG</item>
+        <item>Bedek</item>
+        <item>BEES AIRLINE</item>
+        <item>BLUE AIR AVIATION</item>
+        <item>FLYONE</item>
+        <item>Jordan Aviation</item>
+        <item>ONUR AIR</item>
+        <item>RED WINGS</item>
+        <item>SKYUP AIRLINES</item>
+        <item>TBILISI AIRWAYS LLC</item>
+        <item>UKRAINE INTL AIR</item>
+        <item>USA AIR FORCE</item>
+        <item>vista jet air</item>
+
+    </string-array>
+
+
+
+</resources>

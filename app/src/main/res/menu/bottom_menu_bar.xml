@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/departuresFlightsFragment"
+        android:title="@string/departures"
+        android:icon="@drawable/departure_airplane" />
+
+    <item android:id="@+id/favoritesFragment"
+        android:title="@string/favorites"
+        android:icon="@drawable/ic_baseline_star_24" />
+
+    <item android:id="@+id/arrivalsFlightsFragment"
+        android:title="@string/arrivals"
+        android:icon="@drawable/arrivals_airplane" />
+</menu>

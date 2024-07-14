@@ -13,7 +13,7 @@ SkyStar is an Android application developed to provide users with real-time upda
 
 To install the SkyStar application, download the APK file from the link below and install it on your Android device:
 
-[Download SkyStar APK](https://www.dropbox.com/scl/fi/s1bmmvhcirpnj1bf71nip/SkyStar.apk?rlkey=jlodt3yn7z9e86a61p2a8ln7d&st=jx82ht2c&dl=0)
+[Download SkyStar APK](https://drive.google.com/file/d/1ISr7tbnN1mf0IYIGNI_cyOTVngCUXiBG/view?usp=drive_link)
 
 ## Screenshots
 
@@ -46,7 +46,7 @@ For detailed information about the project, refer to the following documents:
 ### Project Presentation
 
 Click to view the full project presentation:
-[![View Full Project Presentation](https://previews.dropbox.com/p/thumb/ACXyvlh-UoDkZVVatmdCLlazbLD3BENQ_RmtNmSgGuNwENHZ2ON5OFw2K62U1ndMsky7u0Qg8MBUm-Ru1x8cY6QeuBgWD0N-M-hf17M9NtN6OzidCRA6tEPqbTcYOdheqbYG98s5QDT7UXl9fcqD3nk7um-qVNiTw7jc6IfaINFOd9NP0_epH0-uy_e_esJLgAEgu0EHh9dRvUqf5gfKYLmlUoZQzyguRj-VIy4G1li2728kknDNQXRc-LSdEpTx8AnpfTf2hRijwaKW0YokNpQKhjvMB5V1VYkMChmHUo_Abl2ouHI3GUjnL-DsEtp5h-TuqSuzfgl-kZKzJ5ZLYAJE/p.jpeg)](https://www.dropbox.com/scl/fi/uvif1fuiq4udujfensxng/Project-Presentation.pdf?rlkey=a2y74myrhn7m1vz11ayu249n7&st=y4r6i4g9&dl=0)
+[![View Full Project Presentation](https://drive.google.com/uc?export=view&id=1J4TLQQ_hJB9y9c1Q7wNZqNaUgU_r9wtq)](https://drive.google.com/file/d/142MpyxJF3-iEkyB_lc-gU7wR06LAviVb/view?usp=drive_link)
 
 ## Application Architecture
 

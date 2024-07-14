@@ -17,13 +17,21 @@ To install the SkyStar application, download the APK file from the link below an
 
 ## Screenshots
 
-![Home Screen](https://drive.google.com/uc?export=view&id=1qfIctEL-lpK-TJDm3ssRNc8WHUTTS6Qh)
-![Departures]()
-![Arrivals]()
-![Favorites]()
-![Search]()
-![Search Results]()
-![Flight Details]()
+<table>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1qfIctEL-lpK-TJDm3ssRNc8WHUTTS6Qh" alt="Home Screen" width="200"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1qmfn6wTEMpTLDhNnH38mWJ3kWJ340Uhc" alt="Departures" width="200"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1qwCmz-JGi8_oIefysTE9zlmGlHZApYe5" alt="Arrivals" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1rCtVRT-dETdecdiJ0A1A_7JDBcU7WtN7" alt="Favorites" width="200"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1qy-kWhg53M7jixulMOpB4a4-opALLXK7" alt="Search" width="200"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1rEITTNwwLcNxjfeS4U3xBlCfb6_AGiAs" alt="Search Results" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1r-UjsfYezA256ZvuO8SY1XCaESZxweCN" alt="Flight Details" width="200"></td>
+  </tr>
+</table>
 
 ## Video Demonstration
 

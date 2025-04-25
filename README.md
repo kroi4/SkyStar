@@ -46,8 +46,7 @@ For detailed information about the project, refer to the following documents:
 
 ### Project Presentation
 
-Click to view the full project presentation:
-[![View Full Project Presentation](https://drive.google.com/uc?export=view&id=1J4TLQQ_hJB9y9c1Q7wNZqNaUgU_r9wtq)](https://drive.google.com/file/d/142MpyxJF3-iEkyB_lc-gU7wR06LAviVb/view?usp=drive_link)
+[📄 Project Presentation (PDF)](https://github.com/user-attachments/files/19907682/Project.Presentation.pdf)
 
 ## Application Architecture
 

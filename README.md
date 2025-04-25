@@ -19,19 +19,20 @@ To install the SkyStar application, download the APK file from the link below an
 
 <table>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1qfIctEL-lpK-TJDm3ssRNc8WHUTTS6Qh" alt="Home Screen" width="200"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1qmfn6wTEMpTLDhNnH38mWJ3kWJ340Uhc" alt="Departures" width="200"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1qwCmz-JGi8_oIefysTE9zlmGlHZApYe5" alt="Arrivals" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/a998eabe-b646-4ad1-8adf-325c1d3f710b" alt="Screenshot 1" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/f490ae3e-9424-4960-b653-f18dfd19b92e" alt="Screenshot 2" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/ede2d31a-6686-422a-924a-7abb4f2ada11" alt="Screenshot 3" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1rCtVRT-dETdecdiJ0A1A_7JDBcU7WtN7" alt="Favorites" width="200"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1qy-kWhg53M7jixulMOpB4a4-opALLXK7" alt="Search" width="200"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1rEITTNwwLcNxjfeS4U3xBlCfb6_AGiAs" alt="Search Results" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/d93aee1a-d1cf-4bf1-a397-f93c2979029d" alt="Screenshot 4" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/c1218054-6399-4f5a-a076-9acac5aa586f" alt="Screenshot 5" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/ea3b7a30-5978-40e8-9f37-2f74b9e9ebcb" alt="Screenshot 6" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1r-UjsfYezA256ZvuO8SY1XCaESZxweCN" alt="Flight Details" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/d47ee8be-e18c-4dce-be12-1eccbdc27847" alt="Screenshot 7" width="200"></td>
   </tr>
 </table>
+
 
 ## Video Demonstration
 
